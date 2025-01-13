@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "e69caf644b52ee50",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a147747dd6855c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "351cc2aa9860486c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parallel and Distributed Programming/Patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Patterns"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9b67ef09807267b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a0aecfc0cdc2c28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e4ac8a71a12b94b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "320b5814a4542a5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"Parallel and Distributed Programming/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "85c2481afb864708",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a648210f87d12ed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "07bc716049a54648",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f86697bd1fd27daa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Parallel and Distributed Programming/Patterns.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Patterns"
+            }
+          },
+          {
+            "id": "f81245a2b21e2bbb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Parallel and Distributed Programming/Patterns.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Patterns"
+            }
+          },
+          {
+            "id": "0baa2ec9ef2c56c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6e6e8a6b270e647b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Parallel and Distributed Programming/Patterns.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Patterns"
+            }
+          },
+          {
+            "id": "62719d5c4bba5ae4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "351cc2aa9860486c",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Parallel and Distributed Programming/Patterns.md",
+    "Clippings/Memoirs of a Geisha.md",
+    "Arthur Golden.md",
+    "Clippings",
+    "2025-01-13.md",
+    "Parallel and Distributed Programming"
+  ]
+}
