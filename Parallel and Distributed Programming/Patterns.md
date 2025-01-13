@@ -11,4 +11,3 @@ Patterns codify best practices in software engineering. In parallel programming,
 
 ## **Nesting Patterns**
 ### **What are nesting patterns**
-This is it
