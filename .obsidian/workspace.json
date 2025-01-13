@@ -4,24 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "6a147747dd6855c0",
-        "type": "tabs",
+        "id": "7639bba5c7b06803",
+        "type": "split",
         "children": [
           {
-            "id": "351cc2aa9860486c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parallel and Distributed Programming/Patterns.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Patterns"
-            }
+            "id": "6a147747dd6855c0",
+            "type": "tabs",
+            "dimension": 72.70992366412213,
+            "children": [
+              {
+                "id": "351cc2aa9860486c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Parallel and Distributed Programming/Patterns.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Patterns"
+                }
+              }
+            ]
+          },
+          {
+            "id": "92852a59ba0507fb",
+            "type": "tabs",
+            "dimension": 27.29007633587786,
+            "children": [
+              {
+                "id": "56477df813efaf30",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/home/naod/Documents/Obsidian Vault",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/sh",
+                        "name": "",
+                        "platforms": {
+                          "linux": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 64,
+                        "data": "$ ls\r\n'Parallel and Distributed Programming'\r\n$ git\r\nusage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\r\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\r\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--no-lazy-fetch]\r\n           [--no-optional-locks] [--no-advice] [--bare] [--git-dir=<path>]\r\n           [--work-tree=<path>] [--namespace=<name>] [--config-env=<name>=<envvar>]\r\n           <command> [<args>]\r\n\r\nThese are common Git commands used in various situations:\r\n\r\nstart a working area (see also: git help tutorial)\r\n   clone     Clone a repository into a new directory\r\n   init      Create an empty Git repository or reinitialize an existing one\r\n\r\nwork on the current change (see also: git help everyday)\r\n   add       Add file contents to the index\r\n   mv        Move or rename a file, a directory, or a symlink\r\n   restore   Restore working tree files\r\n   rm        Remove files from the working tree and from the index\r\n\r\nexamine the history and state (see also: git help revisions)\r\n   bisect    Use binary search to find the commit that introduced a bug\r\n   diff      Show changes between commits, commit and working tree, etc\r\n   grep      Print lines matching a pattern\r\n   log       Show commit logs\r\n   show      Show various types of objects\r\n   status    Show the working tree status\r\n\r\ngrow, mark and tweak your common history\r\n   branch    List, create, or delete branches\r\n   commit    Record changes to the repository\r\n   merge     Join two or more development histories together\r\n   rebase    Reapply commits on top of another base tip\r\n   reset     Reset current HEAD to the specified state\r\n   switch    Switch branches\r\n   tag       Create, list, delete or verify a tag object signed with GPG\r\n\r\ncollaborate (see also: git help workflows)\r\n   fetch     Download objects and refs from another repository\r\n   pull      Fetch from and integrate with another repository or a local branch\r\n   push      Update remote refs along with associated objects\r\n\r\n'git help -a' and 'git help -g' list available subcommands and some\r\nconcept guides. See 'git help <command>' or 'git help <concept>'\r\nto read about a specific subcommand or concept.\r\nSee 'git help git' for an overview of the system.\r\n$ git add ",
+                        "rows": 11
+                      }
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: sh"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -77,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a648210f87d12ed6",
@@ -94,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parallel and Distributed Programming/Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Patterns"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +168,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parallel and Distributed Programming/Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Patterns"
+              "title": "Outgoing links"
             }
           },
           {
@@ -139,11 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Parallel and Distributed Programming/Patterns.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Patterns"
+              "title": "Outline"
             }
           },
           {
@@ -161,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,13 +225,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "351cc2aa9860486c",
+  "active": "56477df813efaf30",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Parallel and Distributed Programming/Patterns.md",
+    "Untitled.canvas",
     "Clippings/Memoirs of a Geisha.md",
     "Arthur Golden.md",
     "Clippings",
