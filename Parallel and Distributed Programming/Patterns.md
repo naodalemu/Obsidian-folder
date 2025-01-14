@@ -14,7 +14,7 @@ Patterns codify best practices in software engineering. In parallel programming,
 Nesting allows combining patterns hierarchically and recursively.
 Nesting involves hierarchical and recursive composition of other patterns in parallel programming. It helps developers to build complex algorithms from simpler components.
 
-Some languages support small amount of nesting and sometimes it is even directly mapped to hardwar.
+Some languages support small amount of nesting and sometimes it is even directly mapped to hardware.
 
 TBB and Cilk allow flexible nesting and while efficiently mapping parallelism to physical hardware.
 Systems that do not support nesting are CUDA, OpenCL, C++, AMP, OpenMP
@@ -53,16 +53,59 @@ Examples:
 - Divide and Conquer Algorithms (Quick sort and Merge sort)
 
 
-## **Parallel Control Patterns**
+## **Parallel Control Flow Patterns**
 **fork-Join:** Splits the workflow into parallel and later combines it into one.
 - Used in OpenMP and Cilk plus
-- Divide and Conqure (Quick Sort and Merge Sort)
+- Divide and Conquer (Quick Sort and Merge Sort)
 	- Quick Sort: Divide the array into parts then sort it and join them together
 	- Merge Sort: Recursively separate the array, sort the halves and merge them in parallel.
 - Graph algorithms, Dynamic programming
 
-**Map Pattern:** 
-**Stencil Pattern:** 
-**Reduction:** 
-**Scan:** 
-**Recurrence:** 
+------------------------------------------------------------------
+
+**Map Pattern:** Applies functions on each component independently. There is no connection between tasks. Embarrassingly parallel.
+- Ideal for SIMD architectures.
+- Applications: Image Processing (Color Space Conversion), Monte Carlo Sampling, Ray Tracing, image filtering.
+
+------------------------------------------------------------------
+
+**Stencil Pattern:** Generalization of map pattern with neighborhood access. A single function can access it's corresponding task and it's neighboring task. Makes it useful in places where the context of a data point is useful.
+
+Difference between map and stencil:
+- Map processes each task (element) separately.
+- Stencil considers neighbors during operation
+
+Example: Convolution, Median filtering, Motion estimation in video encoding, Isotropic Diffusion
+
+------------------------------------------------------------------
+
+**Reduction:** Combines all of the elements of a collection into a single value.
+Used in, Numerical Applications, Dot product in matrix multiplication, 
+
+combines everything like a + b + c + d + e
+
+------------------------------------------------------------------
+
+**Scan:** Computes all partial reductions of a collection. Produces an array where each element is a reduction of all the previous elements.
+
+has all the elements before it as a reduction (with addition or multiplication)
+[a + (a+b), (a+b+c), (a+b+c+d)]
+[1 + 3 + 6 + 10 + 15 + 21 + 28]
+
+Application: Integration, Financial Modeling, Random Number Generation, Data Packing
+
+------------------------------------------------------------------
+
+**Recurrence:** Generalization of iteration where loop iterations depend on previous computations. There must be serial ordering for computation.
+
+Applications: Matrix Factorization, Image Processing, PDE Solvers (partial differential equations), Sequence Alignment.
+
+
+## Serial Data Management Patterns
+**Random Read and Write**: Uses pointers or indices for direct memory access. it involves reading from or writing to specific parts of memory location. Direct access to memory.
+
+Challenges could be Aliasing (Which mean two pointers accessing the same memory location and it could cause synchronization problems if they do it at the same time.) Two or more memory locations referring to the same data. (Race Condition)
+
+**Heap and Stack Allocation:** Memory allocations are important.
+**Closure and Objects:**
+Closures are function objects that can be constructed and managed like data. Lambda functions.
