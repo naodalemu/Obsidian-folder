@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "351cc2aa9860486c",
+            "id": "dbf89885f6e72411",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -145,12 +145,11 @@
               "title": "Outline of Patterns"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 314.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -164,10 +163,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "351cc2aa9860486c",
+  "active": "dbf89885f6e72411",
   "lastOpenFiles": [
-    "Recording 20250113205621.m4a",
+    "Parallel and Distributed Programming/Revision.md",
+    "Upwork Proposal.md",
     "Parallel and Distributed Programming/Patterns.md",
+    "Recording 20250113205621.m4a",
     "Untitled.canvas",
     "Clippings/Memoirs of a Geisha.md",
     "Arthur Golden.md",
