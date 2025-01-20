@@ -1,0 +1,4 @@
+- When updating profiles use the people who have achieved good and follow what they are doing. 
+	- I noticed lower rates get more earning than larger rates but I also noticed those lower rate freelancers have been here for a very long time so it must have taken a long time, at some point which might have been hard to support a healthy lifestyle.
+- Update profiles, look at top level profiles (top 10) in my niche and see what they are doing, check if they are having a good year and then follow them, for those people something must be working.
+- 
