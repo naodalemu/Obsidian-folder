@@ -1,16 +1,24 @@
 - My first portfolio item is visible with my profile picture so it must be top notch, it should be insanely good.
-- ![[Pasted image 20250121094923.png]]
+	- I am planning to use Unicorn Dust and here are the list of items I can use as a portfolio. I think I might have to find other one that look cool to add to the mix.
+		- ![[Pasted image 20250121161357.png]]Netflix, Spotify, American gods, Amazon echo escape
+	- ![[Pasted image 20250121094923.png]]
 - On the profile overview the name should clearly state what the job wants, specialized profile is a must. for example: Expert Graphics Designer | UI and UX Designer | Wordpress Developer is a bit confusing. Is he a Graphics Designer or a Wordpress Developer. So this means each title should show a specific expression of the job we are applying to.
 	- Create Specialized profiles
 	- Name them only the specific job needed
 		- Portfolio should be specific to profile
 	- Make the general profile have everything
 - [Question] - Why is it saying top 1% on relevant skill of the top rated plus girl (Okay wait a second. We found another dude that is not top rated plus so this 1% shit must be because of certificates)
+	- ![[Pasted image 20250121171035.png]]https://www.reddit.com/r/Upwork/comments/sra1cw/i_just_learned_a_ton_of_valuable_lessons_as_a/
+	- **Edit:** Thank you everyone for the kind replies an awards! A few of you (including me) are curious about the 'Top 1%' you can see under freelancers in the first screenshot. I reached out to UpWork, and this is the reply I got:
+		- Thank you for waiting for our response. My name is Dulce from the client Support team and your percentile rank on the freelancer profile has been forwarded to us. I'd be glad to help you with this.
+		- **Please know, the percentage represents the ranking of that freelancer among all Upwork freelancers who list that as a skill. It is based on the freelancer's ability to win work and perform on jobs that include that particular skill.** **The lower the number, the higher the freelancer's ranking.**
+		- **Freelancers may have the highest percentile rank but not top rated yet as we have different requirement to meet for the top rated program.**
+	
 - Boosted accounts are going to be above everyone
 - Boosted proposals can also be best match and will be at the top
 - Focus on Skills on your profile (maybe specific profile skills) and put the ones that really are common at the top.
 - [Crazzzzy thing] - You can bold cover letters and make them reaaaaaaly stand out you know. Let's do that. [Focus Here]
-- ![[Pasted image 20250121102442.png]]
+	- ![[Pasted image 20250121102442.png]]
 - It would be an additional help (aygodam) to connect your portfolio item with Upwrok work history. Post the things you have done on Upwork and link them together.
 - Upwork profile picture should be smiley and welcoming, Chill, cool, fun to work with guy.
 
