@@ -1,0 +1,23 @@
+- My first portfolio item is visible with my profile picture so it must be top notch, it should be insanely good.
+- ![[Pasted image 20250121094923.png]]
+- On the profile overview the name should clearly state what the job wants, specialized profile is a must. for example: Expert Graphics Designer | UI and UX Designer | Wordpress Developer is a bit confusing. Is he a Graphics Designer or a Wordpress Developer. So this means each title should show a specific expression of the job we are applying to.
+	- Create Specialized profiles
+	- Name them only the specific job needed
+		- Portfolio should be specific to profile
+	- Make the general profile have everything
+- [Question] - Why is it saying top 1% on relevant skill of the top rated plus girl (Okay wait a second. We found another dude that is not top rated plus so this 1% shit must be because of certificates)
+- Boosted accounts are going to be above everyone
+- Boosted proposals can also be best match and will be at the top
+- Focus on Skills on your profile (maybe specific profile skills) and put the ones that really are common at the top.
+- [Crazzzzy thing] - You can bold cover letters and make them reaaaaaaly stand out you know. Let's do that. [Focus Here]
+- ![[Pasted image 20250121102442.png]]
+- It would be an additional help (aygodam) to connect your portfolio item with Upwrok work history. Post the things you have done on Upwork and link them together.
+- Upwork profile picture should be smiley and welcoming, Chill, cool, fun to work with guy.
+
+## Quick Takeaways
+- Portfolio, first portfolio that shows up on client hiring page is important
+- Good and specific title (Profile Overview)
+- Good profile picture, happy smiley faces
+- Skills should be in order, should be prioritized according to common job posts
+- Include names of clients at the start, include all of the client's names with a "/"
+- Personalized, bold, right to the point and a small emoji
