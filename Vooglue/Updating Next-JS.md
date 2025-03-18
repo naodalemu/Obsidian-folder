@@ -1,0 +1,11 @@
+./.next/
+./public/
+./source/
+.gitignore
+jsconfig.json
+next.config.js
+package.locl.json
+package.json
+postcss.config.js
+README.md
+tailwind.config.js

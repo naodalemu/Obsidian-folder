@@ -1,0 +1,4 @@
+- When users send data, send the token for the user and the form together and also when you request do the same.
+- Card detail, how to pay (monthly or yearly), which plan, user information
+- User profile page already built the location thing (Hitesh)
+- Talk to (Meet) about artwork update

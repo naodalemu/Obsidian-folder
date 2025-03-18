@@ -8,7 +8,7 @@
 		- Portfolio should be specific to profile
 	- Make the general profile have everything
 - [Question] - Why is it saying top 1% on relevant skill of the top rated plus girl (Okay wait a second. We found another dude that is not top rated plus so this 1% shit must be because of certificates)
-	- ![[Pasted image 20250121171035.png]]https://www.reddit.com/r/Upwork/comments/sra1cw/i_just_learned_a_ton_of_valuable_lessons_as_a/
+	- ![[Pasted image 20250121171028.png]]https://www.reddit.com/r/Upwork/comments/sra1cw/i_just_learned_a_ton_of_valuable_lessons_as_a/
 	- **Edit:** Thank you everyone for the kind replies an awards! A few of you (including me) are curious about the 'Top 1%' you can see under freelancers in the first screenshot. I reached out to UpWork, and this is the reply I got:
 		- Thank you for waiting for our response. My name is Dulce from the client Support team and your percentile rank on the freelancer profile has been forwarded to us. I'd be glad to help you with this.
 		- **Please know, the percentage represents the ranking of that freelancer among all Upwork freelancers who list that as a skill. It is based on the freelancer's ability to win work and perform on jobs that include that particular skill.** **The lower the number, the higher the freelancer's ranking.**
@@ -17,7 +17,7 @@
 - Boosted accounts are going to be above everyone
 - Boosted proposals can also be best match and will be at the top
 - Focus on Skills on your profile (maybe specific profile skills) and put the ones that really are common at the top.
-- [Crazzzzy thing] - You can bold cover letters and make them reaaaaaaly stand out you know. Let's do that. [Focus Here]
+- [Crazzzzy thing] - You can bold cover letters and make them reaaaaaaly stand out you know. Let's do that. [Focus Here] use a site called https://yaytext.com/
 	- ![[Pasted image 20250121102442.png]]
 - It would be an additional help (aygodam) to connect your portfolio item with Upwrok work history. Post the things you have done on Upwork and link them together.
 - Upwork profile picture should be smiley and welcoming, Chill, cool, fun to work with guy.
