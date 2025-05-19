@@ -1,0 +1,13 @@
+- Bring out the stove
+- Pour water in it 1.5 liters
+- Turn the stove on and let it boil
+- In the mean time prepare two plastic bags for both lunchboxes &
+- wash the lunchbox
+- once it has boiled add the indomin inside it
+- Wait for 3 minutes and get ready to go running out
+- start stirring until you feel it soft
+- put it down when you have room for the road
+- separate them in half into each lunchbox
+- add the ingredients on leti and mine separately and seal
+- Put the stove around Naol's locker. Away from any contact point
+- Run out

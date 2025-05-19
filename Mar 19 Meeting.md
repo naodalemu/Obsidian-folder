@@ -1,0 +1,1 @@
+Shift and attendance is going to be handled by the back-end instead of the database so when attendance is recorded 
