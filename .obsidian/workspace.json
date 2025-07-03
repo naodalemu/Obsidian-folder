@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7de91e1cdc4237e",
+            "id": "59494e56d35bec60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List of shit you gotta make each time.md",
+                "file": "Vooglue/June 15 taks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List of shit you gotta make each time"
+              "title": "June 15 taks"
+            }
+          },
+          {
+            "id": "6f26f41b2495b874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks to be fixed on CloudVault.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks to be fixed on CloudVault"
+            }
+          },
+          {
+            "id": "2fc5ef2044e21591",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definition of the rule updated on Jul 3, 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definition of the rule updated on Jul 3, 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,31 +193,39 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c7de91e1cdc4237e",
+  "active": "9e4ac8a71a12b94b",
   "lastOpenFiles": [
+    "Definition of the rule updated on Jul 3, 2025.md",
+    "Yadayada.md",
+    "Tasks to be fixed on CloudVault.md",
+    "Vooglue/June 15 taks.md",
+    "Vooglue/API list.md",
+    "Vooglue/Feb 13 Tasks.md",
+    "Vooglue/Feb 19 Tasks.md",
+    "Vooglue/Mar 04, 08-30 meeting.md",
+    "Vooglue/Things to fix, for after the vooglue project.md",
+    "Vooglue/Time Re-estimation for Investor Dashboard Page.md",
+    "Vooglue/Updating Next-JS.md",
+    "Working Principle.md",
     "Structure.md",
+    "Questions.md",
+    "Procedure to push service-dag.md",
+    "Presentation plan.md",
+    "Plan.md",
+    "Pasted image 20250321082614.png",
+    "Order for April 30.md",
+    "Old and New code.md",
+    "Mar 19 Meeting.md",
+    "List of tasks for staff page.md",
     "List of shit you gotta make each time.md",
     "Code for fake SocketIO.md",
-    "Order for April 30.md",
-    "Plan.md",
+    "Recording 20250610205127.m4a",
+    "Untitled 1.md",
     "Vooglue/Defect count for time estimation.md",
     "Pasted image 20250321103913.png",
-    "Pasted image 20250321082614.png",
-    "Vooglue/Mar 04, 08-30 meeting.md",
-    "Vooglue/Updating Next-JS.md",
-    "Vooglue/Time Re-estimation for Investor Dashboard Page.md",
     "Vooglue/Time Estimate for Investor Dashboard Page.md",
-    "Mar 19 Meeting.md",
-    "Vooglue/Things to fix, for after the vooglue project.md",
-    "Questions.md",
     "GC Project",
-    "Vooglue/API list.md",
-    "Vooglue/Feb 19 Tasks.md",
-    "Upwork/Upwork Proposal New.md",
-    "Upwork/Clients Side for Writing Proposals.md",
-    "Upwork/Clients side of Upwork and how to adjust according to that.md",
     "Recording 20250213133418.m4a",
-    "Vooglue/Feb 13 Tasks.md",
     "Recording 20250213133741.m4a",
     "Recording 20250213133728.m4a",
     "Vooglue",
@@ -196,18 +233,11 @@
     "Pasted image 20250121171035.png",
     "Upwork/Pasted image 20250121161357.png",
     "Upwork/Pasted image 20250121102442.png",
-    "Upwork/Part time job proposal.md",
-    "Upwork/Tutorial on Upwork Profiles.md",
-    "Upwork/Upwork Proposal I Used to Use.md",
     "Pasted image 20250121102446.png",
     "Upwork/Pasted image 20250121094923.png",
-    "Parallel and Distributed Programming/Patterns.md",
     "Upwork",
-    "Parallel and Distributed Programming/Revision.md",
     "Recording 20250113205621.m4a",
     "Untitled.canvas",
-    "Clippings/Memoirs of a Geisha.md",
-    "Arthur Golden.md",
     "Clippings",
     "Parallel and Distributed Programming"
   ]

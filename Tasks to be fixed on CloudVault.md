@@ -1,0 +1,9 @@
+- First connection time the popup has issues. I need to fix that.
+- I am not sure if this is on my side but files sent on telegram has double extension names like .png.png
+- Change the email at the navbar to a name. Like what the hell?
+- The upload and download buttons need indication (real issue)
+- Add a progress bar for the upload and download
+- Also actually try to make the files downloadable 
+- Make the navbar responsive and also everything except Getting started in the Documentation (well no one reads from the phone but we can't afford to look cheap)
+- Add a favicon too
+- 

@@ -1,0 +1,2 @@
+- I am seeing issues on the github workflow, I need to make it look like the one I make, find a way to make it work normally without the odd looking processes
+- Add the x pixel code to handle the buying process for ads
