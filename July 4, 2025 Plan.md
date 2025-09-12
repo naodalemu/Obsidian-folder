@@ -1,0 +1,4 @@
+- [ ] Apply to jobs on upwork, it is okay if it is 1 job and it is okay if there is no reasonable enough job to apply to but minumum time on upwork should be greater than an hour excluding job and client research.
+- [ ] Checkout AICTE Oasis Infobyte Internship
+- [ ] Try to update your profile if there is anything necessary.
+- [ ] Make your CV, to make it possible try to start before 15:00
