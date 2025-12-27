@@ -5,12 +5,14 @@
 - Jasper Tailwind - https://jasper-tailwind.vercel.app/
 - React Quizee - https://quizee-three.vercel.app/
 - Soil Moisture Detector - https://soil-moisture-detector.vercel.app/
+- Rom Mini site - https://ron-minisite.netlify.app/
 
 ### Multi Page Projects:
 - Cook & Craft - https://cookncraft.vercel.app/
 	- Make the images smaller to load faster, because of your common SEO
 	- Try to make it responsive if you can (since it's only the landing page that's not responsive)
 - Upwork Income Analytics - https://upwork-analytics-alpha.vercel.app/
+- Tolga Tutorial Page - https://tolga-tutorial.netlify.app/
 
 ### Full Projects:
 - SSRS-Customer - https://ssrs-customer.vercel.app/

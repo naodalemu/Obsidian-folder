@@ -1,0 +1,5 @@
+- Y Combinator - https://www.ycombinator.com/jobs
+- Upwork - https://www.upwork.com
+- Hubstaff - https://hubstafftalent.net/
+- WellFound - https://wellfound.com/
+- 
