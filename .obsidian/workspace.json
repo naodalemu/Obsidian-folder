@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "d264c867782fd40c",
+        "id": "93aff707341a9aff",
         "type": "tabs",
         "children": [
           {
-            "id": "d0fa9dabec8b2f42",
+            "id": "f6d31ccdf56a2a01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Projects and Links.md",
+                "file": "Job Search/My Projects and Links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "My Projects and Links"
             }
+          },
+          {
+            "id": "f8a8972b0f76baec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gabriel's Project/Report on findings for verbal communication to change design concept into code prototype.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Report on findings for verbal communication to change design concept into code prototype"
+            }
+          },
+          {
+            "id": "a1a17271622f2d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs that are easy to play when you get your bass, train with them..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Songs that are easy to play when you get your bass, train with them."
+            }
+          },
+          {
+            "id": "44673327c093912d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leti's Birthday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leti's Birthday"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "July 4, 2025 Plan.md",
+                "file": "Gabriel's Project/Report on findings for non-technical person verbal communication to change design concept into code prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for July 4, 2025 Plan"
+              "title": "Backlinks for Report on findings for non-technical person verbal communication to change design concept into code prototype"
             }
           },
           {
@@ -165,17 +208,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d0fa9dabec8b2f42",
+  "active": "44673327c093912d",
   "lastOpenFiles": [
-    "My Projects and Links.md",
+    "Songs that are easy to play when you get your bass, train with them..md",
+    "Leti's Birthday.md",
+    "Gabriel's Project/Report on findings for non-technical person verbal communication to change design concept into code prototype.md",
+    "Gabriel's Project/Report on findings for verbal communication to change design concept into code prototype.md",
+    "Pasted image 20251017114905.png",
+    "Pasted image 20251016184941.png",
+    "Pasted image 20251016183522.png",
+    "Gabriel's Project/Minimal prompt template (text-only).md",
+    "Job Search/My Projects and Links.md",
+    "Gabriel's Project",
+    "Lilisha.md",
+    "Questions for Mr. Gabriel.md",
+    "Recording 20250213133418.m4a",
+    "Menu.base",
+    "Mar 19 Meeting.md",
+    "List of shit you gotta make each time.md",
+    "List of tasks for staff page.md",
+    "Job Search/Job Borads I signed up for.md",
+    "Upwork Income Analytics Dashboard 📊.md",
+    "().md",
+    "upwork.com.md",
+    "Job Search",
     "Path to do today's task.md",
     "Fixes.md",
-    "Menu.base",
     "Bases.md",
     "July 4, 2025 Plan.md",
-    "Questions for Mr. Gabriel.md",
-    "Upwork Income Analytics Dashboard 📊.md",
-    "Songs that are easy to play when you get your bass, train with them..md",
     "LINK_TO_YOUR_SCREENSHOT_HERE.md",
     "Vooglue/Updated files for SEO.md",
     "Structure.md",
@@ -184,22 +244,10 @@
     "Working Principle.md",
     "2025-07-04.md",
     "Vooglue/Defect count for time estimation.md",
-    "Vooglue/June 15 taks.md",
-    "Definition of the rule updated on Jul 3, 2025.md",
-    "Yadayada.md",
-    "Vooglue/API list.md",
-    "Vooglue/Feb 13 Tasks.md",
-    "Vooglue/Feb 19 Tasks.md",
-    "Vooglue/Mar 04, 08-30 meeting.md",
-    "Vooglue/Things to fix, for after the vooglue project.md",
-    "Vooglue/Time Re-estimation for Investor Dashboard Page.md",
-    "Vooglue/Updating Next-JS.md",
-    "Questions.md",
     "Pasted image 20250321082614.png",
     "Recording 20250610205127.m4a",
     "Pasted image 20250321103913.png",
     "GC Project",
-    "Recording 20250213133418.m4a",
     "Recording 20250213133741.m4a",
     "Recording 20250213133728.m4a",
     "Vooglue",
@@ -208,9 +256,6 @@
     "Upwork/Pasted image 20250121161357.png",
     "Upwork/Pasted image 20250121102442.png",
     "Pasted image 20250121102446.png",
-    "Upwork/Pasted image 20250121094923.png",
-    "Upwork",
-    "Recording 20250113205621.m4a",
-    "Clippings"
+    "Upwork"
   ]
 }

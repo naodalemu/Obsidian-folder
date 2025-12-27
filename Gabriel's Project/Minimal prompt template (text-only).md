@@ -1,0 +1,24 @@
+- Goal: Build a food processing workflow UI in React + Tailwind.
+- Components to create:
+	- WorkflowLayout(props: columns:number) — provides page container, grid guides, and column gutters.
+	- WorkflowRow(props: label:string) — left label column, right content area aligned to the grid.
+	- WorkflowBox(props: title?, subtitle?, variant: 'step'|'outcome'|'tag'|'note'|'default') — rounded box with variant styles.
+- Page: Create src/workflow.jsx which assembles rows and boxes to match the spec below.
+- Layout:
+	- Columns: 5 content columns to the right of a 160px label column.
+	- Gaps: 24px between columns; vertical row gap 16px.
+	- Background: dark (bg-gray-900), subtle guide lines between columns.
+- Variants (visuals):
+	- step: light gray filled, bold text.
+	- outcome: light blue filled, bold text, centered.
+	- tag: small pill gray.
+	- note: small pill pink.
+	- default: dark gray card, white text.
+- Rows and content to render:
+	- Steps: 5 boxes (Step 1..5) in columns 1–5 using variant=step.
+	- Ingredients: tags [Sugar, Orange, Water, Lime, Corn] flowing left-to-right.
+	- Outcome: 5 boxes (Dough, Soft Dough, Fermented Dough, Hot Biscuit, Packaged Biscuit) variant=outcome, one per column.
+	- Loss Types: 1 small tag per column saying “Loss type over x,xxx | $x.xx”.
+	- Other rows: Other Food Production, Research, Fuel Production, Manure, Destroyed — each has a small pink note positioned roughly centered under its relevant column (you can center within each column).
+- Responsiveness: Keep 24px side padding on small screens; cap width at 1280px for inner content.
+- Deliverables: Implement the three components and the page; no routing required unless asked.
