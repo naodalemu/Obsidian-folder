@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d264c867782fd40c",
+        "id": "44ef554f85517c04",
         "type": "tabs",
         "children": [
           {
-            "id": "d0fa9dabec8b2f42",
+            "id": "cc18c7f2e935b213",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Projects and Links.md",
+                "file": "BareCare/Issues Noticed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Projects and Links"
+              "title": "Issues Noticed"
+            }
+          },
+          {
+            "id": "640e5a242a07c6ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BareCare/Things to check if the merged code colapses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Things to check if the merged code colapses"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "July 4, 2025 Plan.md",
+                "file": "BareCare/Issues Noticed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for July 4, 2025 Plan"
+              "title": "Backlinks for Issues Noticed"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parallel and Distributed Programming/Patterns.md",
+                "file": "BareCare/Issues Noticed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Patterns"
+              "title": "Outgoing links from Issues Noticed"
             }
           },
           {
@@ -128,7 +143,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -140,18 +157,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parallel and Distributed Programming/Patterns.md"
+                "file": "BareCare/Issues Noticed.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Patterns"
+              "title": "Outline of Issues Noticed"
+            }
+          },
+          {
+            "id": "3170159ae0d196da",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,39 +192,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "random-note:Open random note": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d0fa9dabec8b2f42",
+  "active": "640e5a242a07c6ec",
   "lastOpenFiles": [
-    "My Projects and Links.md",
-    "Path to do today's task.md",
-    "Fixes.md",
+    "Money I need to spend as soon as I get it.md",
+    "BareCare/Things to check if the merged code colapses.md",
+    "BareCare/Issues Noticed.md",
+    "Pasted image 20251218155949.png",
+    "Pasted image 20251218154345.png",
+    "BareCare/Tasks to do for the Shop Order page.md",
+    "copilot/copilot-conversations/Explain_this_like_I_am_five._What_does_it_mean@20251218_151522.md",
+    "copilot/copilot-conversations/Help@20251218_151019.md",
+    "copilot/copilot-conversations/Explain_this_like_I_am_5@20251218_151019.md",
+    "copilot/copilot-conversations/What_key_questions_does_activeNote_answer@20251218_150326.md",
+    "copilot/copilot-conversations/Explain_this_like_I_am_5@20251218_150130.md",
+    "copilot/copilot-conversations",
     "Menu.base",
-    "Bases.md",
-    "July 4, 2025 Plan.md",
-    "Questions for Mr. Gabriel.md",
-    "Upwork Income Analytics Dashboard 📊.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "My Projects and Links.md",
+    "Upwork/Upwork Proposal New.md",
     "Songs that are easy to play when you get your bass, train with them..md",
-    "LINK_TO_YOUR_SCREENSHOT_HERE.md",
-    "Vooglue/Updated files for SEO.md",
-    "Structure.md",
-    "Tasks to be fixed on CloudVault.md",
+    "2025-12-17.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
-    "Working Principle.md",
-    "2025-07-04.md",
-    "Vooglue/Defect count for time estimation.md",
-    "Vooglue/June 15 taks.md",
-    "Definition of the rule updated on Jul 3, 2025.md",
-    "Yadayada.md",
-    "Vooglue/API list.md",
-    "Vooglue/Feb 13 Tasks.md",
-    "Vooglue/Feb 19 Tasks.md",
-    "Vooglue/Mar 04, 08-30 meeting.md",
-    "Vooglue/Things to fix, for after the vooglue project.md",
-    "Vooglue/Time Re-estimation for Investor Dashboard Page.md",
-    "Vooglue/Updating Next-JS.md",
-    "Questions.md",
+    "BareCare",
     "Pasted image 20250321082614.png",
     "Recording 20250610205127.m4a",
     "Pasted image 20250321103913.png",
@@ -202,15 +241,11 @@
     "Recording 20250213133418.m4a",
     "Recording 20250213133741.m4a",
     "Recording 20250213133728.m4a",
-    "Vooglue",
     "Pasted image 20250121171028.png",
     "Pasted image 20250121171035.png",
     "Upwork/Pasted image 20250121161357.png",
     "Upwork/Pasted image 20250121102442.png",
     "Pasted image 20250121102446.png",
-    "Upwork/Pasted image 20250121094923.png",
-    "Upwork",
-    "Recording 20250113205621.m4a",
-    "Clippings"
+    "Upwork/Pasted image 20250121094923.png"
   ]
 }

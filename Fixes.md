@@ -1,4 +1,0 @@
-- [x] Restructuring The lower buttons
-- [x] Responsiveness on the referral box
-- [x] Responsiveness for the new buttons
-- [x] Think about the referral buttons in dashboard section.
